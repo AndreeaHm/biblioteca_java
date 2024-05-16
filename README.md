@@ -1,23 +1,23 @@
-Acțiuni/interogări în cadrul sistemului bibliotecii:
+Obiecte:
 
-1. Adăugarea unei noi cărți în bibliotecă.
-2. Căutarea cărților după titlu.
-3. Căutarea cărților după autor.
-4. Împrumutarea unei cărți de către un cititor.
-5. Returnarea unei cărți împrumutate.
-6. Verificarea disponibilității unei cărți.
-7. Înregistrarea unui nou cititor.
-8. Actualizarea informațiilor despre o carte.
-9. Generarea rapoartelor despre cărțile împrumutate.
-10. Ștergerea unei cărți din bibliotecă.
+1. Carte
+2. Utilizator
+3. Membru
+4. Bibliotecar
+5. Imprumut
+6. Bibliotecă
+7. ServiciuBibliotecă
+8. Catalog
 
-Tipuri de obiecte în cadrul sistemului bibliotecii:
+Acțiuni/Interogări:
 
-1. Cărți
-2. Autori
-3. Cititori
-4. Sectoare/Secțiuni
-5. Împrumuturi
-6. Exemplare de cărți
-7. Recenzii
-8. Edituri
+1. Adăugarea unei cărți în bibliotecă
+2. Eliminarea unei cărți din bibliotecă
+3. Înregistrarea unui utilizator
+4. Împrumutarea unei cărți
+5. Returnarea unei cărți
+6. Obținerea cărților împrumutate de un utilizator
+7. Obținerea cărților disponibile
+8. Obținerea utilizatorului după ID
+9. Bibliotecarul adaugă o carte în bibliotecă
+10. Bibliotecarul înregistrează un utilizator
