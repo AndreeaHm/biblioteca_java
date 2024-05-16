@@ -19,7 +19,7 @@ public class Database {
             try {
                 connection = DriverManager.getConnection(URL, USER, PASSWORD);
             } catch (SQLException e) {
-                logger.log(Level.SEVERE, "Error", e);
+                logger.log(Level.SEVERE, " Error ", e);
             }
         }
         return connection;
